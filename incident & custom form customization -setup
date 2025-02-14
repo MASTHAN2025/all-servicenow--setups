@@ -1,0 +1,7 @@
+1. 
+   search(incident) --> create new(click) --> right click on form header --> configur(click) --> form design(click) --> do changes --> reload form. 
+   right click on field name --> customization(click) --> change field name.
+   Category --> configur(click) --> form design(click) --> click on gare icon --> add options.
+
+2. custom field:
+    search(incident) --> create new(click) --> right click on form header --> configur(click) --> form layout --> Create new field.
