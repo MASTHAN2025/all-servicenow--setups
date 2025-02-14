@@ -1,4 +1,9 @@
-1. through filters:
-    incident(search) --> create new(click) --> create new incident --> right click on incident bar & save.
+1. through incident:
+    search(incident) --> create new(click) --> create new incident --> right click on incident bar & save.
 
-2. 
+2. through service portal:
+    search(service portal) --> service portal home(click) --> Catalog(click) --> Browse by Categories(click) --> Can We Help You?(click) --> Create Incident(click) --> create & submit.
+
+3. through e-mail:
+    dev293629@servicenowdeveloper.com  (better to chose "url name")
+
