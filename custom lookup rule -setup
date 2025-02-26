@@ -1,0 +1,19 @@
+1. Creating fields(Do incident or problem tabels).
+    * Name(e-department) --> type(referance) --> referance(cmn_department) --> save & submit.
+    * Name(e-designation) --> type(choice) --> advanced view(click) --> choice table(sys_user) --> choice field(title) --> save & submit.
+    * Name(hotel type) --> type(choice) --> configur choices(click) --> (7-star,5-star,3-star,1-room) --> save & submit.
+
+2. Tables:
+    * New(click) --> Label(hotel type lookup) --> Extends table(dl_matcher) --> save --> show form(click) --> form layout --> create above 3-fields as same as --> add(order & global) --> save.
+
+3. hotel type field:
+    * advanced view --> choice list specification --> choice table(incident) --> choice field(hotel type) --> update. 
+    * Emp Department[IT]
+      Emp Designation[Director]
+      Hote Type[7-star] 
+      order[100] --> submit --> create as same as.
+
+4. Data lookup rule defination:
+    * new(click) --> data lookup rule(click) --> name(hotel type lookup) --> source table(incident) --> matcher table(hotel type lookup) --> save --> macher field defination(click)
+      --> new(click) --> Do as same as above and tick exact lookup matck(tick) --> submit.
+5. 
