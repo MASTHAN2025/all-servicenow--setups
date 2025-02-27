@@ -15,5 +15,5 @@
 
 4. Data lookup rule defination:
     * new(click) --> data lookup rule(click) --> name(hotel type lookup) --> source table(incident) --> matcher table(hotel type lookup) --> save --> macher field defination(click)
-      --> new(click) --> Do as same as above and tick exact lookup matck(tick) --> submit.
+      --> new(click) --> Do as same as above, and tick exact lookup matck(tick) --> submit.
 5. 
