@@ -8,7 +8,9 @@
 
 3. hotel type field:
     * advanced view --> choice list specification --> choice table(incident) --> choice field(hotel type) --> update. 
-    * Emp Department[IT]
+
+    * Do manual
+      Emp Department[IT]
       Emp Designation[Director]
       Hote Type[7-star] 
       order[100] --> submit --> create as same as.
