@@ -1,7 +1,8 @@
 Simple Way:
  1. create 3-fields in incudent.
- 2. create 3-fields in table
- 3. 
+ 2. create 3-fields in table.
+ 3. Data lookup rule defination.
+
 1. Creating fields(Do incident or problem tabels).
     * Name(e-department) --> type(referance) --> referance(cmn_department) --> save & submit.
     * Name(e-designation) --> type(choice) --> advanced view(click) --> choice table(sys_user) --> choice field(title) --> save & submit.
