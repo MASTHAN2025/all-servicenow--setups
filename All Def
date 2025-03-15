@@ -1,1 +1,6 @@
+1. Annotation: In ServiceNow, an annotation is a way to add brief notes or comments to a record. It’s like leaving a small reminder or message to give extra details or updates, 
+            helping others understand what’s happening with that record.
 
+2. Form Layout  : Simple tool to add, remove, or reorder fields on a form.
+   Form Builder : Drag-and-drop tool to design forms visually.
+   Form Design  : Advanced tool for adding rules and customizing form behavior.
