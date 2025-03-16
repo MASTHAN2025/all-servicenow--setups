@@ -14,4 +14,7 @@
 
 6. omit button:
 
-7. 
+7. Meta data : data about data, we can change data in baground.
+    * sys_db_object.list      : tables, fields, labels.
+    * sys_dictionary.list     : fields, labels.
+    * sys_documentation       : labels.
