@@ -18,3 +18,5 @@
     * sys_db_object.list      : tables, fields, labels.
     * sys_dictionary.list     : fields, labels.
     * sys_documentation       : labels.
+
+8. tabels : if we create a table, a role will be create automatically.
