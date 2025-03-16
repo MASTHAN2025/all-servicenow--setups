@@ -1,6 +1,17 @@
 1. Annotation: In ServiceNow, an annotation is a way to add brief notes or comments to a record. It’s like leaving a small reminder or message to give extra details or updates, 
-            helping others understand what’s happening with that record.
+               helping others understand what’s happening with that record.
 
 2. Form Layout  : Simple tool to add, remove, or reorder fields on a form.
    Form Builder : Drag-and-drop tool to design forms visually.
    Form Design  : Advanced tool for adding rules and customizing form behavior.
+
+3. Concatenate  : when you give "first name" and "lost name" full name is auto populate automatically is called concatenate.
+    ex:-  CONCATENATE(u_first_name," ",u_last_name)
+
+4. Dot walking  : when you select user, user mail-id & other info is auto populate that is called dot walking.
+
+5. Contextual search result : it will auto populate some info.
+
+6. omit button:
+
+7. 
