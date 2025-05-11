@@ -1,5 +1,9 @@
 1. process flow: 
-    process flow(search) --> new(click) --> Table(incident table) --> Name(resloving) --> Label(resloving) --> Order(400) --> 
-
+    process flow(search) --> new(click) --> Table(incident table) --> Name(New) --> Label(New) --> Order(100) --> save.
+                                                                  --> Name(In Progress) --> Label(In Progress) --> Order(200) --> save.
+                                                                  --> Name(On Hold) --> Label(On Hold) --> Order(300) --> save.
+                                                                  --> Name(Resoloved) --> Label(Resloved) --> Order(400) --> save.
+                                                                  --> Name(Closed) --> Label(Closed) --> Order(500) --> save.
+                                                                  --> Name(Canceled) --> Label(canceled) --> Order(600) --> save.
 
 
