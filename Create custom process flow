@@ -1,0 +1,2 @@
+1. Search:
+   process flow --> click(new) --> Table(incident) --> Name(New) --> Label(New) --> Order(100) --> Condition(State is New) --> save.
