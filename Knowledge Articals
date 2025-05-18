@@ -1,8 +1,20 @@
-1. Knowledge bases(Search) --> New(click) --> Title(masthan) --> Owner(Alfonso Griglen) --> Description(masthan vlogs) --> save.
-2. Knowledge Categories(click) --> new(click) --> Label(data) --> Value(100) --> save.
+* instant publis & Instant retire:
+   1. Knowledge bases(Search) --> New(click) --> Title(Human Resource) --> Owner(Alfonso Griglen) --> manager(fred ludy) -->
+      publish work flow(Knowledge - Instant Publish) --> Retire workflow(Knowledge - Instant Retire) --> Description(masthan vlogs) --> save.
+   2. Knowledge Categories(click) --> new(click) --> Label(Onbording) --> Value(Onbording) --> save.
+   3. Knowledge(search) --> create new(click) --> standard(click) --> Knowledge base(Human Resource) --> category(Onbording) --> article type(WIKI) --> Short description(message) --> save.
 
-3. Knowledge(search) --> create new(click) --> standard(click) --> Knowledge base(masthan) --> Short description(message) --> save.
+* Import Articals:
+   1. Knowledge bases(Search) --> New(click) --> Title(Human Resource) --> Owner(Alfonso Griglen) --> manager(fred ludy) -->
+      publish work flow(Knowledge - Instant Publish) --> Retire workflow(Knowledge - Instant Retire) --> Description(masthan vlogs) --> save.
+   2. Knowledge Categories(click) --> new(click) --> Label(Onbording) --> Value(Onbording) --> save.
+   1. import articals(search) --> knowledge base(Human Resource) --> Category(Onbording) --> Browse Files --> Import --> continue(click) --> Go All & Publish Article.
 
+* Approval Publish & Approval Retire:
+   1. Knowledge bases(Search) --> New(click) --> Title(Human Resource) --> Owner(Alfonso Griglen) --> manager(fred ludy) -->
+      publish work flow(Knowledge - approval Publish) --> Retire workflow(Knowledge - approval Retire) --> Description(masthan vlogs) --> save.
+   2. Knowledge Categories(click) --> new(click) --> Label(Onbording) --> Value(Onbording) --> save.
+   3. Knowledge(search) --> create new(click) --> standard(click) --> Knowledge base(Human Resource) --> category(Onbording) --> article type(WIKI) --> Short description(message) --> save.
 
 
 
