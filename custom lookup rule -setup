@@ -10,7 +10,10 @@ Simple Way:
 
 2. Tables:
     * New(click) --> Label(hotel type lookup) --> Extends table(dl_matcher) --> save --> show form(click) --> form layout --> create above 3-fields as same as --> add(order & global) --> save.
- 
+
+Department:
+     advanced view --> choice list specification --> choice table(sys_user) --> choice field(title) --> update. 
+
   hotel type field:
     * advanced view --> choice list specification --> choice table(incident) --> choice field(hotel type) --> update. 
     * Emp Department[IT]
